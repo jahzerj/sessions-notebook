@@ -1,0 +1,27 @@
+* {
+  background-color: lightgreen;
+  box-sizing: border-box;
+}
+
+ul {
+  font-size: 2rem;
+}
+
+li {
+  font-size: 1em;
+}
+
+.rand {
+  position: relative;
+}
+.square-big {
+  width: 50vw;
+  height: 200px;
+  background-color: plum;
+}
+
+.square-small {
+  width: 50%;
+  height: 25%;
+  background-color: cadetblue;
+}

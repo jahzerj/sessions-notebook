@@ -19,7 +19,8 @@ console.log("person name", person.name);
 console.log("person age", person.age);
 
 // console.log("person name", person[name])
-console.log("person name", person["name"]);
+console.log("person name", person["name"]
+);
 
 const houseNumber = person.address["house-number"];
 person.address["house-number"] = 23;
